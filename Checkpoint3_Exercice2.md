@@ -37,7 +37,7 @@ Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'au
 
 Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?
 
-<P ALIGN="center"><IMG src=".\Ressources\Capture d'écran 2025-01-17 112454.png" width=400></P>
+<P ALIGN="center"><IMG src=".\Ressources\Capture d'écran 2025-01-17 112454.png" width=600></P>
 
 Les différents sytèmes de fichiers sont :
 
