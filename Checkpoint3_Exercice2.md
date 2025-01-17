@@ -111,8 +111,8 @@ Q.2.5.3 Quels types sont interdit ?
 Tout est autorisé car il n'y aucune règle qui été ajoutée pour finir la chaîne par un `Drop`.
 
 Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.
-
 Rappel : Bareos utilise les ports TCP 9101 à 9103 pour la communication entre ses différents composants.
+`nft add rule inet_filter_table in_chain dport 9101 accept`
 
 ## Partie 6 : Analyse de logs
 
